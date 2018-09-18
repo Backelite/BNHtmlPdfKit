@@ -11,7 +11,7 @@ Just copy `BNHtmlPdfKit.h` and `BNHtmlPdfKit.m` into your project.
 ### CocoaPods
 
 ```ruby
-pod 'BNHtmlPdfKit', :git => 'https://github.com/Heidan34/BNHtmlPdfKit'
+pod 'BNHtmlPdfKit', :git => 'https://github.com/Backelite/BNHtmlPdfKit'
 ```
 
 ## Background
